@@ -18,7 +18,7 @@ Dataset - <a href="https://www.kaggle.com/datasets/emineyetm/fake-news-detection
 ### POST /news/check
 
 
-#### Example body
+#### Example request body
 ```JSON
   {
     "title": "Breaking News",
